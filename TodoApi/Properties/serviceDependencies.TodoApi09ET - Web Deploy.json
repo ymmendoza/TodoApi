@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/TodoAPIET-0709/apis/TodoApiET-0709",
+      "type": "apis.azure"
+    }
+  }
+}
